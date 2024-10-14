@@ -22,7 +22,8 @@ This is a simple web-based wave loading animation created using HTML and CSS. Th
 
 A preview of the wave loading animation:
 
-![Wave Loading Animation](screenshot.png) 
+![Wave Loading Animation](![1728924326378623922857759268010](https://github.com/user-attachments/assets/2d11bc57-7d1d-462b-8c6c-b59832a40c07)
+) 
 
 ## License
 
